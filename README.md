@@ -53,6 +53,8 @@
 
 
 ## Output:
+![graph ](https://github.com/user-attachments/assets/0cdd49da-a13f-40aa-8c7e-2cd7c2caf5dc)
+![velocity and accelereation ](https://github.com/user-attachments/assets/4b0ef8ea-ce00-4afd-a906-7d1ea2d86f7d)
 
 
 ### Name:
